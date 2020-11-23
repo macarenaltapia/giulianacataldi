@@ -1,7 +1,10 @@
-/* body {
+body {
   margin: 0;
   font-family: 'coolvetica', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
- */
+
+footer ul li p {
+margin-left: 0.5rem;
+}
